@@ -20,6 +20,11 @@
 </a>
 
 </p>
+<br>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jakorostami&theme=shadow-orange" alt="GitHub Streak" /></a>
+</p>
 
 * 🔨 Working as a Machine Learning Engineer, former Data Scientist, BSc Statistics & Probability theory
 
