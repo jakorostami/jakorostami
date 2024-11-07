@@ -48,10 +48,10 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakorostami&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakorostami&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jakorostami&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakorostami&theme=radical) 
+![](https://github-readme-stats.vercel.app/api?username=jakorostami&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakorostami&theme=radical) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jakorostami&theme=radical)
 
 
 </details>
