@@ -21,9 +21,9 @@
 
 </p>
 
-* 📖 Working as a Machine Learning Engineer, former Data Scientist, BSc Statistics & Probability theory
+* 🔨 Working as a Machine Learning Engineer, former Data Scientist, BSc Statistics & Probability theory
 
-* 🎓 Doing hobby research and projects on **AI**, **Computational Supply Chain**, and **Topological Data Analysis & Machine Learning**
+* 💣 Doing hobby research and projects on **AI**, **Computational Supply Chain**, and **Topological Data Analysis & Machine Learning**
 
 * 💻 Currently building a Python library for Computational Supply Chain - follow the progress on X @ [supplyseer](https://x.com/supplyseer)
 
@@ -48,10 +48,10 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakorostami&theme=radical) 
-![](https://github-readme-stats.vercel.app/api?username=jakorostami&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakorostami&theme=radical) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakorostami&theme=radical) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jakorostami&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jakorostami&theme=radical) <br>
+![](https://github-readme-stats.vercel.app/api?username=jakorostami&show_icons=true&theme=radical)
 
 
 </details>
