@@ -30,7 +30,7 @@
 
 * 💣 Doing hobby research and projects on **AI**, **Computational Supply Chain**, and **Topological Data Analysis & Machine Learning**
 
-* 💻 Currently building a Python library for Computational Supply Chain - follow the progress on X @ [supplyseer](https://x.com/supplyseer)
+* 💻 Currently building a Python library for Computational Supply Chain - follow the progress on here @ [supplyseer](https://github.com/supplyseer-ai/supplyseer)
 
 ### 🖥️ Open-Source Projects
 <table>
